@@ -1,4 +1,4 @@
 # GITDEMO
  its my first repository
  <br>
- author - gagan
+ author - gagan kamati
